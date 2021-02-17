@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **python, c++, ros**
 
-- 📫 How to reach me **chimuanyachukwuma@gmail.com**
+- 📫 How to reach me: **chimuanyachukwuma@gmail.com**
 
 - ⚡ Fun fact: **I love web novels and chocolate**
 
