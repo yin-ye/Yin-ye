@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chimuanyachukwuma@gmail.com**
 
-- ⚡ Fun fact **I love web novels and chocolate**
+- ⚡ Fun fact: **I love web novels and chocolate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
