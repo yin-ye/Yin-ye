@@ -2,15 +2,15 @@
 <h3 align="center">So, about me...</h3>
 
 
-- 🔭 I'm working on ros-based agri-robot robot **Thorvald Weeding Robot**
+- 🔭 I'm working on a multilingual medical system using Large Transformer and GRU architectures
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning deep reinforcement learning algorithms
 
-- 💬 Ask me about **python, c++, ros**
+- 💬 Ask me about **python, ros, deep learning architectures**
 
 - 📫 How to reach me: **chimuanyachukwuma@gmail.com**
 
-- ⚡ Fun fact: **I love web novels and chocolate**
+- ⚡ Fun fact: **I love Chinese web novels and spicy chicken**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
