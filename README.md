@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **chimuanyachukwuma@gmail.com**
 
-- ⚡ Fun fact: **I love Danmei and spicy chicken**
+- ⚡ Fun fact: **I love danmei and spicy chicken**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
