@@ -19,19 +19,12 @@ As a software engineer, I love making a difference using my passion for coding a
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: chimuanyachukwuma@gmail.com;
 
-<h3 align="left">Languages and Tools:</h3>
-- Python3
-- C++
-- TensorFlow
-- Scikit-Learn
-- TensorFlow
+<h3 align="left">Tools:</h3>
+- Colab
 - MoveIt
 - Gazebo
-- Keras
+- MakeSenseAI
 - Visual Studio Code
-- Numpy
-- Pandas
-- OpenCV
 - MediaPipe
 - ROS
 
