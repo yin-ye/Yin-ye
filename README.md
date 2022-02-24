@@ -1,25 +1,3 @@
-<h1 align="center">Hi there, I'm Onyinye 👋🏻</h1>
-
-<h3 align="center">So, about me...</h3>
-
-
-- 🔭 I'm working on a multilingual medical system using Large Transformer and GRU architectures
-
-- 🌱 I’m currently learning deep reinforcement learning algorithms
-
-- 💬 Ask me about **python, ros, deep learning architectures**
-
-- 📫 How to reach me: **chimuanyachukwuma@gmail.com**
-
-- ⚡ Fun fact: **I love danmei and spicy chicken**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chimuania" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chimuania" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/onyinye007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="onyinye007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/onyinyechi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="onyinyechi" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 - Python
 - C++
@@ -35,13 +13,13 @@
 [![Leetocde Badge](https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://www.leetcode.com/onyinyechi)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MostlyYin)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! &nbsp;
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am a software engineer with experience in developing robotic and computer vision solutions. I also adore reading web novels, writing poetry and taking _short_ walks.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a software engineer, I love making a difference using my passion for coding and control to develop and engineer new products.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
