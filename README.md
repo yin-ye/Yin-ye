@@ -19,7 +19,7 @@ As a software engineer, I love making a difference using my passion for coding a
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: chimuanyachukwuma@gmail.com;
 
-<h3 align="left">Tools:</h3>
+**Tools:**
 - Colab
 - MoveIt
 - Gazebo
