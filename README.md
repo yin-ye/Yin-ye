@@ -1,12 +1,3 @@
-<h3 align="left">Languages and Tools:</h3>
-- Python
-- C++
-- TensorFlow
-- Scikit-Learn
-- TensorFlow
-- Colab
-- ROS
-
 ### Hi there, I'm , I'm Onyinye 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/onyinye007)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/chimuania)
@@ -24,21 +15,27 @@ As a software engineer, I love making a difference using my passion for coding a
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 🚀I’m working on something cool;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 📫 How to reach me: chimuanyachukwuma@gmail.com;
+
+<h3 align="left">Languages and Tools:</h3>
+- Python3
+- C++
+- TensorFlow
+- Scikit-Learn
+- TensorFlow
+- MoveIt
+- Gazebo
+- Keras
+- Visual Studio Code
+- Numpy
+- Pandas
+- OpenCV
+- MediaPipe
+- ROS
 
 </br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JSON   2 mins          █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
 
 
 📈 **My GitHub Stats:**
