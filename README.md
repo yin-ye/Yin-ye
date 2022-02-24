@@ -19,7 +19,7 @@ I am a software engineer with experience in developing robotic and computer visi
 
 As a software engineer, I love making a difference using my passion for coding and control to develop and engineer new products.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="340" height="260" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="360" height="270" />
   
 
 **Talking about Personal Stuffs:**
