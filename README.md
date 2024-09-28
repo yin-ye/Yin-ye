@@ -1,39 +1,42 @@
-### Hi there, I'm , I'm Onyinye 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/onyinye007)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/chimuania)
-[![Leetocde Badge](https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://www.leetcode.com/onyinyechi)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MostlyYin)
+# 👋 Hi, I'm Yin!
 
-### Glad to see you here! &nbsp;
+Welcome to my GitHub corner! I'm a **Data Engineer** who loves turning raw data into meaningful insights using cutting-edge tools. I have experience in designing, building, and maintaining large-scale data systems that run like clockwork!
 
-I am a software engineer with experience in developing robotic and computer vision solutions. I also adore reading web novels, writing poetry and taking _short_ walks.
+## ⚡ My Tech Stack
 
-As a software engineer, I love making a difference using my passion for coding and control to develop and engineer new products.
+Here's some of the cool tech I work with:
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="360" height="230" />
-  
+- **Cloud Platforms**: Azure ☁️, AWS ☁️
+- **Big Data Frameworks**: Apache Spark ⚡
+- **Messaging Systems**: Apache Kafka 🔥
+- **Data Pipelines & Tools**: 
+  - Azure Data Factory 🏗️
+  - Azure Synapse Analytics 📊
+  - Azure Data Lake (Gen2) 🌊
+  - AWS Redshift 🛢️
+  - AWS Glue 🧩
+  - Apache Airflow ⏳ 
 
-**Talking about Personal Stuffs:**
+I thrive in creating scalable data solutions and I'm passionate about **big data**, **real-time analytics**, and all things **cloud architecture**!
 
-- 🚀I’m working on something cool;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: chimuanyachukwuma@gmail.com;
+## 🎎 Fun Facts About Me
 
-**Tools:**
-- Colab
-- MoveIt
-- Gazebo
-- MakeSenseAI
-- Visual Studio Code
-- MediaPipe
-- ROS
+- I love **donghua** (Chinese animation) 🎥, **anime** 🎌, and I'm an avid reader of **cultivation novels** 📚. If it involves intense training montages and epic battles for immortality, count me in!
+- My favourite food? Well, it depends on my mood! But right now, I'm all about:
+  - Fried plantain 🍌
+  - Jollof rice 🍚
+  - Suya beef 🍖 (Yes, I'm drooling too 😋)
 
-</br>
+## 🌱 What I'm Currently Exploring
 
+- Diving deeper into **distributed systems** and **streaming architectures**.
+- Experimenting with **Machine Learning** and how it fits into data pipelines. 🚀
+- Learning more about **cloud-native solutions** and expanding my knowledge in **containerization** (Hello, Docker and Kubernetes!).
 
-📈 **My GitHub Stats:**
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yin-ye&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+## 📫 How to Reach Me
 
+You can always find me here on GitHub, or you can shoot me a message on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/onyinye007/)).
 
+---
+
+_"When life gives you data, make it insightful."_ 😎
